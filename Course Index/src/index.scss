@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-size: 1em;
+    font-family: 'Raleway', sans-serif;  
+  }
+  
+  body {
+    background-color: rgb(240, 240, 240);
+  }
+  
+  .container {
+    max-width: 50rem;
+    margin: 0 auto;
+  }
+h1 {
+  font-weight: 800;
+  text-transform: uppercase;
+  padding-bottom: 0.7em;
+}
