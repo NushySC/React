@@ -17,7 +17,7 @@ import toDoData from "./toDoData"
 
 // export default App
 
-//class component way
+//class component way. Now the toDOData goes to the state and it's mapped in the render method
 export default class App extends React.Component {
     constructor() {
         super() 
